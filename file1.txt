@@ -1,3 +1,7 @@
-hello Git!!
+hello Git :)
 
 check status.
+
+change1
+
+change2
