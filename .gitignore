@@ -1,0 +1,5 @@
+# class ingnores all .class files
+/bin/
+*.jar
+*.class
+*.war
