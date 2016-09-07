@@ -1,7 +1,0 @@
-hello Git :)
-
-check status.
-
-change1
-
-change2
